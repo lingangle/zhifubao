@@ -1,0 +1,22 @@
+page{
+    position: relative;
+    width:100%;
+    background-color:lightcoral;
+    height: 100%;
+}
+.one{
+    position: absolute;
+    top:0;
+    left:0;
+    width:320px;
+    height:66px;
+    background-color: lawngreen;
+}
+.two{
+    width:320px;
+    position: absolute;
+    top:66px;
+    left:0;
+    height: 100px;
+    background-color: lightblue;
+}

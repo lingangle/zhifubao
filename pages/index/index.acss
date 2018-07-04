@@ -1,0 +1,52 @@
+page{
+    position: relative;
+    width: 100%;
+    height: auto;
+    overflow-x: hidden;
+}
+.yu{
+    width: 100%;
+    height:66px;
+    position: absolute;
+    top:0;
+    left:0;
+    margin-top:10px;
+    background-color: lawngreen;
+}
+.yru{
+    position: absolute;
+    top:70px;
+    left:0;
+    width: 100%;
+    height:66px;
+    background-color: pink;
+    margin-top:30px;
+    
+}
+.luobo{
+    width: 100%;
+    position: absolute;
+    top:150px;
+    left:0;
+    padding-top:26px;
+    height:344px;
+    padding-bottom:52px;
+}
+.luobo .activity{
+    width: 100%;
+    height:266px;
+}
+.luobo .activity image{
+    width: 90%;
+    height: 266px;
+    display:block;
+    margin:0 auto;
+    border-radius: 10px;
+}
+.scroll-view_H{
+    position: absolute;
+    top:600px;
+    left:0;
+    height:400px;
+    background-color: lawngreen;
+}
